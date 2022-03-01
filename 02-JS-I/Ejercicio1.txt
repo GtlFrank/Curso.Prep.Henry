@@ -1,0 +1,10 @@
+1. Variables:
+Se entiende como una caja a la que se le asigna un nombre usado normalmente para identificar el tipo de datos que contiene.
+2. Strings:
+Es una cadena de caracteres.
+3. Funciones (Argumentos, Return)
+Las funciones indican que debe realizarse una tarea específica para un conjunto de datos. Estas tienen argumentos que pueden definirse o no (ejm: edad, nombre, día, fecha); y también pueden retornar algo.
+4. Declaraciones if 
+Son condicionales, si cumple la condición arroja un resultado, en caso de no cumplirla, arroja otro resultado.
+5. Valores booleanos (true, false)
+Solo pueden tener dos valores (1,0) o (verdadero, falso), son resultado de ciertos operadores matemáticos que comparan resultados.
