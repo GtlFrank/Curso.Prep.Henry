@@ -1,0 +1,4 @@
+1. For: Sirve para indicar que se repetirá el código insertado en él, debe definirse la variable, la condición para terminar el bucle y cómo afectará a la variable inicial.
+2. &&: 'Y' Analiza las variables y retorna true si TODAS son verdaderas, de lo contrario, false.
+3. ||: 'O' Analiza las variables y retorna false si TODAS son falsas, de lo contrario, true.
+4. !: 'NOT' Devuelve el valor contrario (ejm: !(1>2) = True)
