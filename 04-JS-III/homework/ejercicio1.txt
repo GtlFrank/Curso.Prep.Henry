@@ -1,0 +1,1 @@
+1.Arrays: 'Arreglo', podemos ver los arreglos como contenedores, donde podemos agrupar datos de distintos tipos (number, string, booleanos, undefined, null) para usarlos después.
