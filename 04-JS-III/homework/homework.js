@@ -221,13 +221,11 @@ function breakStatement(numero) {
   //Pista: usá el statement 'break'
   // Tu código:
   var arrnum = [];
-  var total = numero;
   for (let i = 1; i <= 10; i++) {
-    total = total + 2;
-    if (i === total) {
+    arrnum.push(numero + (2*i));
+    if (i === arrnum[arrnum.length-1]) {
       break;
     }
-    arrnum.push(total);
   }
   if (arrnum.length < 10) {
     return 'Se interrumpió la ejecución';
