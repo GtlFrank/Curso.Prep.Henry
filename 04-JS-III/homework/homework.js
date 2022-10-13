@@ -252,8 +252,8 @@ function continueStatement(numero) {
   }
   return arrnum;
 }
-
-
+// firme?
+// Comentario prueba
 // No modificar nada debajo de esta línea
 // --------------------------------
 
