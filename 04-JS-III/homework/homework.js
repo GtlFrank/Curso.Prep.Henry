@@ -244,7 +244,7 @@ function continueStatement(numero) {
   var arrnum = [];
   var total = numero;
   for (let i = 1; i <= 10; i++) {
-    if (i === 3) {
+    if (i === 5) {
       continue;
     }
     total = total + 2;
