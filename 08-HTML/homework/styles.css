@@ -1,15 +1,25 @@
+body {
+    background-image: url('https://img.freepik.com/fotos-premium/variedad-pasta-italiana-cruda-espatula-madera-sobre-fondo-blanco_23-2148246812.jpg;');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
 h1 {
     color: lightslategray;         
 }
 img {
-    width: 400px;
+    max-width: 400px;
+}
+.divClass {
+    margin: 0 auto;
 }
 #thirdDiv {
-    height: 600;
-    width: 500;
+    max-height: 600;
+    max-width: 500;
     background-color: darkcyan;
     padding: 50px;
     border: 4mm ridge rgba(30, 31, 56, 0.6);
+    margin: 0 auto;
 }
 #spanId {
     font-size: 18px;
